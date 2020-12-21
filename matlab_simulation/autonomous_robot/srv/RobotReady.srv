@@ -1,0 +1,4 @@
+string robotName
+---
+int8 success
+int64 countTasks

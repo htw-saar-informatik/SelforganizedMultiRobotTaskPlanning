@@ -1,0 +1,3 @@
+geometry_msgs/Pose2D startPoint
+geometry_msgs/Pose2D endPoint
+int32 id

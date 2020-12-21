@@ -1,0 +1,9 @@
+TransportTask task
+string from
+string to
+float64 costWithoutTask
+float64 costWithTask
+float64 costWithoutTaskExecutionTime
+float64 costWithTaskExecutionTime
+float64 approximatedDistance
+float64 approximatedExecutionTime

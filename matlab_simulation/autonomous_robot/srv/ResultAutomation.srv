@@ -1,0 +1,3 @@
+float64 totalCostDeadheadDistance
+float64 totalCalculationTime
+float64 totalExecutionTime
